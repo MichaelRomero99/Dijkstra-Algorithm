@@ -1,5 +1,4 @@
 # Dijkstra-Algorithm
 ### Finds the shortest path to every vertice in the graph 
-### Uses a Priority Queue
-### Complexity: O(n^2)
+### Uses a Priority Queue Complexity: O(n^2)
 Data Structure and Algorithms
