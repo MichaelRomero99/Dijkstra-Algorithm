@@ -7,10 +7,10 @@ public class Dijkstra {
 	public static final int INFINITY = 2147483647;	
 	//single source shortests path algorithm
 	
-	public Dijkstra(int size)
+	public Dijkstra(int sz)
 	{
-		ssspList = new Vertex[size];
-		graph = new int[size][size];
+		ssspList = new Vertex[sz];
+		graph = new int[sz][sz];
 	}
 	
 	public String toString(int source)
